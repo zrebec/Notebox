@@ -102,7 +102,7 @@ body {
 }
 
 .summarybox-item-note {
-  padding: 0.3rem 0;
+  padding: 0.3rem 0.2rem;
   border-bottom: 1px dashed black;
 }
 
