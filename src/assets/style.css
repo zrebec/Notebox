@@ -18,6 +18,10 @@ body {
   text-align: center;
 }
 
+.smaller {
+  font-size: 85%;
+}
+
 .wrapper {
   /* Wrapper */
   max-width: 1920px;

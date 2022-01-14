@@ -1,5 +1,5 @@
 <template>
-  <ul class="infobox-item-properties">
+  <ul class="infobox-item-properties smaller">
     <li class="infobox-item-property" v-for="(object, index) in info" :key="index">
       <span class="infobox-item-title" v-show="object.name">{{ object.name }}:</span>
       <span v-if="object.type === 'rating'">
